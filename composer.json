@@ -1,0 +1,17 @@
+{
+    "name": "dimitri/app-console",
+    "description": "",
+    "authors": [
+        {
+            "name": "Dimitri Gritsajuk",
+            "email": "gritsajuk.dimitri@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23",
+        "sentry/sentry": "^1.9"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.1"
+    }
+}
